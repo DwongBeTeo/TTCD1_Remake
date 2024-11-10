@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|d:\\ttcd1_remake\\k22cnt_trandangduong_2210900097\\k22cnt_trandangduong_2210900097\\areas\\admintdd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|solutionrelative:k22cnt_trandangduong_2210900097\\areas\\admintdd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|d:\\ttcd1_remake\\k22cnt_trandangduong_2210900097\\k22cnt_trandangduong_2210900097\\areas\\admintdd\\views\\tdddashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|solutionrelative:k22cnt_trandangduong_2210900097\\areas\\admintdd\\views\\tdddashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|d:\\ttcd1_remake\\k22cnt_trandangduong_2210900097\\k22cnt_trandangduong_2210900097\\areas\\admintdd\\controllers\\admindon_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|solutionrelative:k22cnt_trandangduong_2210900097\\areas\\admintdd\\controllers\\admindon_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|d:\\ttcd1_remake\\k22cnt_trandangduong_2210900097\\k22cnt_trandangduong_2210900097\\areas\\admintdd\\views\\admindon_hang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|solutionrelative:k22cnt_trandangduong_2210900097\\areas\\admintdd\\views\\admindon_hang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|d:\\ttcd1_remake\\k22cnt_trandangduong_2210900097\\k22cnt_trandangduong_2210900097\\areas\\admintdd\\controllers\\tdddashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|solutionrelative:k22cnt_trandangduong_2210900097\\areas\\admintdd\\controllers\\tdddashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|d:\\ttcd1_remake\\k22cnt_trandangduong_2210900097\\k22cnt_trandangduong_2210900097\\areas\\admintdd\\views\\admindon_hang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|solutionrelative:k22cnt_trandangduong_2210900097\\areas\\admintdd\\views\\admindon_hang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|d:\\ttcd1_remake\\k22cnt_trandangduong_2210900097\\k22cnt_trandangduong_2210900097\\modelviews\\dh_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|solutionrelative:k22cnt_trandangduong_2210900097\\modelviews\\dh_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|d:\\ttcd1_remake\\k22cnt_trandangduong_2210900097\\k22cnt_trandangduong_2210900097\\areas\\admintdd\\admintddarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F511BBFE-63C1-4817-B64A-45EB44A0A40E}|K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097.csproj|solutionrelative:k22cnt_trandangduong_2210900097\\areas\\admintdd\\admintddarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\TDDDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\TDDDashboard\\Index.cshtml",
+              "ToolTip": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\TDDDashboard\\Index.cshtml",
+              "RelativeToolTip": "K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\TDDDashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T15:00:03.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\AdminDON_HANG\\Edit.cshtml",
+              "RelativeDocumentMoniker": "K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\AdminDON_HANG\\Edit.cshtml",
+              "ToolTip": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\AdminDON_HANG\\Edit.cshtml",
+              "RelativeToolTip": "K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\AdminDON_HANG\\Edit.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T14:36:40.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\AdminDON_HANG\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\AdminDON_HANG\\Index.cshtml",
+              "ToolTip": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\AdminDON_HANG\\Index.cshtml",
+              "RelativeToolTip": "K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\AdminDON_HANG\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T14:32:15.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DH_ChiTiet.cs",
+              "DocumentMoniker": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\ModelViews\\DH_ChiTiet.cs",
+              "RelativeDocumentMoniker": "K22CNT_TranDangDuong_2210900097\\ModelViews\\DH_ChiTiet.cs",
+              "ToolTip": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\ModelViews\\DH_ChiTiet.cs",
+              "RelativeToolTip": "K22CNT_TranDangDuong_2210900097\\ModelViews\\DH_ChiTiet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:23:09.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T12:59:49.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TDDDashboardController.cs",
+              "DocumentMoniker": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Controllers\\TDDDashboardController.cs",
+              "RelativeDocumentMoniker": "K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Controllers\\TDDDashboardController.cs",
+              "ToolTip": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Controllers\\TDDDashboardController.cs",
+              "RelativeToolTip": "K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Controllers\\TDDDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:31:11.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDON_HANGController.cs",
+              "DocumentMoniker": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Controllers\\AdminDON_HANGController.cs",
+              "RelativeDocumentMoniker": "K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Controllers\\AdminDON_HANGController.cs",
+              "ToolTip": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Controllers\\AdminDON_HANGController.cs",
+              "RelativeToolTip": "K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\Controllers\\AdminDON_HANGController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAQwEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:27:29.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminTDDAreaRegistration.cs",
+              "DocumentMoniker": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\AdminTDDAreaRegistration.cs",
+              "RelativeDocumentMoniker": "K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\AdminTDDAreaRegistration.cs",
+              "ToolTip": "D:\\TTCD1_remake\\K22CNT_TranDangDuong_2210900097\\K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\AdminTDDAreaRegistration.cs",
+              "RelativeToolTip": "K22CNT_TranDangDuong_2210900097\\Areas\\AdminTDD\\AdminTDDAreaRegistration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:55:17.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
