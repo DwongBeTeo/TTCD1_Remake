@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Thông Tin Đăng Nhập";
+}
+@using (Html.BeginForm("dang_nhap", "TDD_KHACH_HANG", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+<div class="card">
+    <div class="card-header">
+        <h2>Thông Tin Đăng Nhập</h2>
+    </div>
+    <div class="card-body">
+        <div class="mb-3 row">
+            <label for="Email" class="col-sm-2 col-form-label">Email</label>
+            <div class="col-sm-10">
+                <input type="Email" class="form-control" id="Email" name="Email">
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label for="MatKhau" class="col-sm-2 col-form-label">Mật Khẩu</label>
+            <div class="col-sm-10">
+                <input type="password" class="form-control" id="MatKhau" name="MatKhau">
+            </div>
+        </div>
+        <div class="card-footer">
+            <button class="btn btn-outline-primary">Đăng Nhập</button>
+        </div>
+    </div>
+</div>
+}

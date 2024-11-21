@@ -1,0 +1,63 @@
+﻿@model IEnumerable<K22CNT2_TDD_2210900097_Remake.Models.SAN_PHAM>
+
+@{
+    ViewBag.Title = "Danh sach san pham";
+}
+<style>
+    .card-img-top {
+        width: 100%; /* Đảm bảo chiều rộng của ảnh chiếm toàn bộ chiều rộng của thẻ */
+        height: 200px; /* Đặt chiều cao cố định cho ảnh (có thể thay đổi tùy theo yêu cầu) */
+        object-fit: contain; /* Đảm bảo ảnh không bị biến dạng, và cắt bớt nếu cần thiết */
+    }
+    .banner {
+        background-color: #0073e6;
+        color: white;
+        text-align: center;
+        padding: 20px 0;
+        width: 100%;
+    }
+</style>
+<header class="banner">
+    <h1>Chào mừng đến với Cửa hàng Điện Thoại</h1>
+    <p>Khám phá những sản phẩm điện thoại mới nhất với giá ưu đãi</p>
+</header>
+<div class="slider">
+    <div class="list">
+        <div class="item"><img src="~/Content/images/Anh1.jpg" alt="Anh1"></div>
+        <div class="item"><img src="~/Content/images/Anh2.jpg" alt="Anh2"></div>
+        <div class="item"><img src="~/Content/images/Anh3.jpg" alt="Anh3"></div>
+        <div class="item"><img src="~/Content/images/Anh4.jpg" alt="Anh4"></div>
+        <div class="item"><img src="~/Content/images/Anh5.jpg" alt="Anh5"></div>
+    </div>
+    <!-- 5utton pre and next -->
+    <div class="buttons">
+        <button id="prev"><</button>
+        <button id="next">></button>
+    </div>
+    <!-- Dot (if 5 items => 5Dot) -->
+    <ul class="dots">
+        <li class="active"></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3 mt-3">
+            <div class="card w-100 ">
+                <img src="@item.HinhAnh" class="card-img-top" alt="@item.TenSanPham">
+                <div class="card-body">
+                    <h5 class="card-title">@item.TenSanPham</h5>
+                    <p>Giá:<span class="text-danger">@item.DonGia.Value.ToString("#,##0")</span> </p>
+                    <a href="/TDDCart/AddToCart?id=@item.ID&TenSanPham=@item.TenSanPham&HinhAnh=@item.HinhAnh&SoLuongMua=1&DonGiaMua=@item.DonGia" 
+                        class="btn btn-primary">
+                        Mua Hàng</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

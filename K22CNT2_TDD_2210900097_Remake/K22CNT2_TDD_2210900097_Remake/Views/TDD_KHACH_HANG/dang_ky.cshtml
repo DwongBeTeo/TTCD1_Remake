@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "Thông Tin Đăng Ký Khách Hàng";
+}
+@using (Html.BeginForm("dang_ky", "TDD_KHACH_HANG", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="card">
+        <div class="card-header">
+            <h2>Thông Tin Đăng Ký</h2>
+        </div>
+        <div class="card-body">
+
+
+            <div class="mb-3 row">
+                <label for="Email" class="col-sm-2 col-form-label">Email</label>
+                <div class="col-sm-10">
+                    <input type="Email" class="form-control" id="Email" name="Email">
+                </div>
+            </div>
+            <div class="mb-3 row">
+                <label for="HoTenKhachHang" class="col-sm-2 col-form-label">Họ Tên</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="HoTenKhachHang" name="HoTenKhachHang">
+                </div>
+            </div>
+            <div class="mb-3 row">
+                <label for="MatKhau" class="col-sm-2 col-form-label">Mật Khẩu</label>
+                <div class="col-sm-10">
+                    <input type="password" class="form-control" id="MatKhau" name="MatKhau">
+                </div>
+            </div>
+            <div class="mb-3 row">
+                <label for="DiaChi" class="col-sm-2 col-form-label">Địa Chỉ</label>
+                <div class="col-sm-10">
+                    <textarea rows="2" class="form-control" id="DiaChi" name="DiaChi"></textarea>
+                </div>
+            </div>
+
+
+
+
+        </div>
+        <div class="card-footer">
+            <button class="btn btn-outline-primary">Đăng Ký</button>
+        </div>
+    </div>
+}
+

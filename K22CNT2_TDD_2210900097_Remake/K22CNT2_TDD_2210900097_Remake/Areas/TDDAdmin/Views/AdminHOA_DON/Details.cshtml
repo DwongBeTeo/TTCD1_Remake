@@ -1,0 +1,98 @@
+﻿@model K22CNT2_TDD_2210900097_Remake.Models.HOA_DON
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>HOA_DON</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.MaHoaDon)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaHoaDon)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NgayHoaDon)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayHoaDon)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NgayNhan)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayNhan)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HoTenKhachHang)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HoTenKhachHang)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DienThoai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DienThoai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DiaChi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiaChi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TongGiaTri)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TongGiaTri)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TrangThai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TrangThai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KHACH_HANG.MaKhachHang)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KHACH_HANG.MaKhachHang)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

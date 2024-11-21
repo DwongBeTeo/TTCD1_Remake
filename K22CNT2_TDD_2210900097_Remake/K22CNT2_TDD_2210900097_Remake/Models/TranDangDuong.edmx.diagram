@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b6b7f1dab26a45f08ef59d37a0a7f275" Name="Diagram1">
+        <EntityTypeShape EntityType="K22CNT2_TDD_ShoppingCartDbModel.CT_HOA_DON" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="K22CNT2_TDD_ShoppingCartDbModel.HOA_DON" Width="1.5" PointX="3" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="K22CNT2_TDD_ShoppingCartDbModel.KHACH_HANG" Width="1.5" PointX="0.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="K22CNT2_TDD_ShoppingCartDbModel.LOAI_SAN_PHAM" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="K22CNT2_TDD_ShoppingCartDbModel.QUAN_TRI" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="K22CNT2_TDD_ShoppingCartDbModel.SAN_PHAM" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="K22CNT2_TDD_ShoppingCartDbModel.FK__CT_HOA_DO__HoaDo__48CFD27E" ManuallyRouted="false" />
+        <AssociationConnector Association="K22CNT2_TDD_ShoppingCartDbModel.FK__CT_HOA_DO__SanPh__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="K22CNT2_TDD_ShoppingCartDbModel.FK__HOA_DON__MaKhach__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="K22CNT2_TDD_ShoppingCartDbModel.FK__SAN_PHAM__MaLoai__3E52440B" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
